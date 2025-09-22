@@ -1,0 +1,9 @@
+# Core libraries
+numpy
+matplotlib
+scikit-learn
+seaborn
+
+# PyTorch for model building and training
+torch
+torchvision
